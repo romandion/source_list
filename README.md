@@ -37,3 +37,4 @@
 33|go|https://github.com/go-lang/go.git| Go programming language.
 34|udt|https://github.com/zerovm/udt.git|UDP-based Data Transfer (UDT) Library
 35|haproxy|https://github.com/haproxy/haproxy.git|HAProxy Load Balancer's development branch 
+36|istio| https://github.com/istio/istio.git | Connect, secure, control, and observe services
