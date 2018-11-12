@@ -38,3 +38,4 @@
 34|udt|https://github.com/zerovm/udt.git|UDP-based Data Transfer (UDT) Library
 35|haproxy|https://github.com/haproxy/haproxy.git|HAProxy Load Balancer's development branch 
 36|istio| https://github.com/istio/istio.git | Connect, secure, control, and observe services
+37|phnt| https://github.com/processhacker/phnt.git | the most up-to-date set of Native windows API definitions
